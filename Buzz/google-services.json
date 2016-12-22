@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299902227339",
+    "firebase_url": "https://buzz-2d1e3.firebaseio.com",
+    "project_id": "buzz-2d1e3",
+    "storage_bucket": "buzz-2d1e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299902227339:android:3a60a520c8d3a02c",
+        "android_client_info": {
+          "package_name": "Buzz.Buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299902227339-1qj2lu68pl0dsherhuvchmjkvtuhf3h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Buzz.Buzz",
+            "certificate_hash": "0F0019A8B0FCF5DEA567DD04BA70BBFE98A176A0"
+          }
+        },
+        {
+          "client_id": "299902227339-rpb6c97ecmhjvedaspvl36pu89jvf2fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPT7ZWkHslAjZAGqNNI2EyBPhMj5q46Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299902227339-rpb6c97ecmhjvedaspvl36pu89jvf2fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
